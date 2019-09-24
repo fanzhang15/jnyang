@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2019.5.6)  30 AUG 2019 20:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 SEP 2019 10:55
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **IGSC_conf.tex
 (./IGSC_conf.tex
@@ -16,7 +17,7 @@ Document Class: IEEEtran 2007/03/05 V1.7a by Michael Shell
 \@IEEEtrantmptoksA=\toks14
 LaTeX Font Info:    Try loading font information for OT1+ptm on input line 373.
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
+(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
 -- Using 8.5in x 11in (letter) paper.
@@ -89,56 +90,56 @@ LaTeX Font Info:    Font shape `OT1/ptm/bx/it' in size <24> not available
 \@IEEEtmpitemindent=\dimen116
 \c@IEEEbiography=\count91
 \@IEEEtranrubishbin=\box27
-) (d:/TeXLive/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
 Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/cite/cite.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 302.
 LaTeX Info: Redefining \nocite on input line 332.
 Package: cite 2015/02/27  v 5.5
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
 Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
 \KV@toks@=\toks15
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
 Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
 File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 99.
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen117
 \Gin@req@width=\dimen118
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
 Package: amsmath 2018/12/01 v2.17b AMS math features
 \@mathmargin=\skip44
 
 For additional information on amsmath, use the `?' option.
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
 Package: amstext 2000/06/29 v2.01 AMS text
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
 File: amsgen.sty 1999/11/30 v2.0 generic functions
 \@emptytoks=\toks16
 \ex@=\dimen119
 ))
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
 Package: amsbsy 1999/11/29 v1.2d Bold Symbols
 \pmbraise@=\dimen120
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 Package: amsopn 2016/03/08 v2.02 operator names
 )
 \inf@bad=\count92
@@ -179,10 +180,10 @@ LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
 LaTeX Info: Redefining \[ on input line 2844.
 LaTeX Info: Redefining \] on input line 2845.
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/algorithms/algorithmic.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/algorithms/algorithmic.sty
 Package: algorithmic 2009/08/24 v0.1 Document Style `algorithmic'
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 )
 \c@ALC@unique=\count104
@@ -192,7 +193,7 @@ Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 \ALC@tlm=\skip47
 \algorithmicindent=\skip48
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/tools/array.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
 Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \col@sep=\dimen128
 \ar@mcellbox=\box30
@@ -202,12 +203,12 @@ Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
 \backup@length=\skip50
 \ar@cellbox=\box31
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/mdwtools/mdwmath.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mdwtools/mdwmath.sty
 Package: mdwmath 1996/04/11 1.1 Nice mathematical things
 \sq@sqrt=\count108
 LaTeX Info: Redefining \sqrt on input line 84.
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/mdwtools/mdwtab.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/mdwtools/mdwtab.sty
 Package: mdwtab 1998/04/28 1.9 Table typesetting with style
 \tab@state=\count109
 \tab@columns=\count110
@@ -226,7 +227,7 @@ Package: mdwtab 1998/04/28 1.9 Table typesetting with style
 \fn@notes=\box32
 \fn@width=\dimen138
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/eqparbox/eqparbox.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/eqparbox/eqparbox.sty
 Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
 \eqp@tempdima=\skip53
 \eqp@tempdimb=\skip54
@@ -234,13 +235,13 @@ Package: eqparbox 2017/09/03 v4.1 Create equal-widthed boxes
 \eqp@list@box=\box34
 \eqp@list@indent=\skip55
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/environ/environ.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/environ/environ.sty
 Package: environ 2014/05/04 v0.3 A new way to define environments
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/trimspaces/trimspaces.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/trimspaces/trimspaces.sty
 Package: trimspaces 2009/09/17 v1.1 Trim spaces around a token list
 )))
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
 Package: subfigure 2002/03/15 v2.1.5 subfigure package
 \subfigtopskip=\skip56
 \subfigcapskip=\skip57
@@ -256,11 +257,11 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 ****************************************
 * Local config file subfigure.cfg used *
 ****************************************
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
 \subfig@top=\skip60
 \subfig@bottom=\skip61
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/base/fixltx2e.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fixltx2e.sty
 Package: fixltx2e 2016/12/29 v2.1a fixes to LaTeX (obsolete)
 Applying: [2015/01/01] Old fixltx2e package on input line 46.
 
@@ -270,17 +271,17 @@ Package fixltx2e Warning: fixltx2e is not required with releases after 2015
 (fixltx2e)                See the latexrelease package for details.
 
 Already applied: [0000/00/00] Old fixltx2e package on input line 53.
-) (d:/TeXLive/texlive/2019/texmf-dist/tex/latex/sttools/stfloats.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/sttools/stfloats.sty
 Package: stfloats 2017/03/27 v3.3 Improve float mechanism and baselineskip sett
 ings
 \@dblbotnum=\count115
 \c@dblbotnumber=\count116
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/url/url.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip11
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
 Package: booktabs 2016/04/27 v1.618033 publication quality tables
 \heavyrulewidth=\dimen141
 \lightrulewidth=\dimen142
@@ -322,7 +323,7 @@ LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 350.
 LaTeX Font Info:    ... okay on input line 350.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 350.
 LaTeX Font Info:    ... okay on input line 350.
- (d:/TeXLive/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+ (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count121
 \scratchdimen=\dimen154
@@ -335,35 +336,35 @@ LaTeX Font Info:    ... okay on input line 350.
 \MPnumerator=\count125
 \makeMPintoPDFobject=\count126
 \everyMPtoPDFconversion=\toks25
-) (d:/TeXLive/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
 Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
 )
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
 Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
 Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
 Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
 )))
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
 Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
 Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
 Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
 Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
 Package ifluatex Info: LuaTeX not detected.
 ))))
-(d:/TeXLive/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
 Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
 )
 Package pdftexcmds Info: LuaTeX not detected.
@@ -378,7 +379,7 @@ Package grfext Info: Graphics extension search list:
 G,.JBIG2,.JB2,.eps]
 (grfext)             \AppendGraphicsExtensions on input line 456.
 
-(d:/TeXLive/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
@@ -393,7 +394,7 @@ Package pdftex.def Info: framework.png  used on input line 453.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[1{d:/TeXLive/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
+[1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}
 
 
 ]
@@ -628,26 +629,26 @@ LaTeX Warning: There were multiply-defined labels.
  ) 
 Here is how much of TeX's memory you used:
  3886 strings out of 492616
- 57707 string characters out of 6129460
- 137253 words of memory out of 5000000
+ 57700 string characters out of 6129482
+ 136253 words of memory out of 5000000
  7697 multiletter control sequences out of 15000+600000
  38238 words of font info for 72 fonts, out of 8000000 for 9000
  1144 hyphenation exceptions out of 8191
  41i,17n,25p,1685b,392s stack positions out of 5000i,500n,10000p,200000b,80000s
-{d:/TeXLive/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}<d:/TeXLive/t
-exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><d:/TeXLive/te
-xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><d:/TeXLive/tex
-live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><d:/TeXLive/texli
-ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><d:/TeXLive/texlive
-/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><d:/TeXLive/texlive/2
-019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><d:/TeXLive/texlive/2019
-/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><d:/TeXLive/texlive/2019/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb><d:/TeXLive/texlive/2019/te
-xmf-dist/fonts/type1/urw/times/utmb8a.pfb><d:/TeXLive/texlive/2019/texmf-dist/f
-onts/type1/urw/times/utmbi8a.pfb><d:/TeXLive/texlive/2019/texmf-dist/fonts/type
-1/urw/times/utmr8a.pfb><d:/TeXLive/texlive/2019/texmf-dist/fonts/type1/urw/time
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2
+019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texlive/2019
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2019/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy5.pfb></usr/local/texlive/2019/te
+xmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/local/texlive/2019/texmf-dist/f
+onts/type1/urw/times/utmbi8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type
+1/urw/times/utmr8a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/time
 s/utmri8a.pfb>
-Output written on IGSC_conf.pdf (7 pages, 2088304 bytes).
+Output written on IGSC_conf.pdf (7 pages, 2088260 bytes).
 PDF statistics:
  109 PDF objects out of 1000 (max. 8388607)
  55 compressed objects within 1 object stream
